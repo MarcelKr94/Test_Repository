@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
+Test
 -<rsm:ShippersDeclarationForDangerousGoods xsi:schemaLocation="iata:shippersdeclarationfordangerousgoods:1 ShippersDeclarationForDangerousGoods_2p0.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ram="iata:datamodel:3" xmlns:udt="urn:un:unece:uncefact:data:standard:UnqualifiedDataType:8" xmlns:ccts="urn:un:unece:uncefact:documentation:standard:CoreComponentsTechnicalSpecification:2" xmlns:rsm="iata:shippersdeclarationfordangerousgoods:1" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
 
 
